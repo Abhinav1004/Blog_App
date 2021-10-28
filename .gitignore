@@ -1,2 +1,3 @@
 myenv/
 workspace.code-workspace
+*.pyc
