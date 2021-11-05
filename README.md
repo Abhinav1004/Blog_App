@@ -11,7 +11,7 @@ A simple blog application
 * Feature to add tags for blog posts and searching blogs on the basis of tags  
 * Recommending similar blog posts  
 * Finding Top k Latest posts and Most commented Posts  
-
+* Adding Sitemaps to the site 
 
 # Next Steps
 
