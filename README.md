@@ -1,6 +1,13 @@
 # Blog Application
 
-A simple blog application  
+A blog application made using Django, leveraging it's powerful features in designing complex web application.
+
+**Tech Stack** used:  
+`
+    **Backend:** Django   
+    **Front End:** HTML,CSS,Bootstrap,JavaScript  
+    **Database:** Postgres   
+`
 
 # Features Implemented   
 * Functionality to do CRUD Operations for a blog post  
@@ -12,8 +19,13 @@ A simple blog application
 * Recommending similar blog posts  
 * Finding Top k Latest posts and Most commented Posts  
 * Adding Sitemaps to the site 
+* Added Search Feature to Blog
+* Adding Stemming,Ranking and Trigram Similarity Advanced Search features 
 
-# Next Steps
+
+# Next Steps  
+* Adding a Text Editor with advanced features  
+* Improving the UI of the application  
 
 # Installation
 
