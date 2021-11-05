@@ -2,12 +2,12 @@
 
 A blog application made using Django, leveraging it's powerful features in designing complex web application.
 
-**Tech Stack** used:  
-`
-    **Backend:** Django   
-    **Front End:** HTML,CSS,Bootstrap,JavaScript  
-    **Database:** Postgres   
-`
+### Tech Stack  
+
+ **Backend** Django   
+ **Front End** HTML,CSS,Bootstrap,JavaScript  
+ **Database** Postgres   
+
 
 # Features Implemented   
 * Functionality to do CRUD Operations for a blog post  
