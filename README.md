@@ -1,6 +1,8 @@
 # Blog Application
 
-A blog application made using Django, leveraging it's powerful features in designing complex web application.
+A blog application having the feature to create,update,read and delete the blogs.It gives user functionality to share the particular post on email,commment on blog posts,and add associated tags to a particular blog which has been later used to make the list of most commented blog posts and recommend similar blog posts on the basis of tags assigned.It has been made using Django, leveraging it's powerful features in designing complex web application.
+
+The blog also has the feature for searching and ranking the corresponding search results using features like how often the query terms appear in the document, how close together the terms are in the document, and how important the part of the document is where they occur.
 
 ### Tech Stack  
 
